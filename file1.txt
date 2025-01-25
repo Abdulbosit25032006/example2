@@ -1,1 +1,3 @@
+yangi qator qoshdim
+
 example2 file1.txt yaratildi
